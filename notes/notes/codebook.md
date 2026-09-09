@@ -18,6 +18,16 @@ Repeated comments about the same theme within one review are consolidated into a
 
 ---
 
+## How the Codebook Was Developed
+
+Before using AI for classification, I manually explored reviews across the raw Yelp dataset, moving across rating levels and different parts of the corpus rather than relying on a single contiguous sample.
+
+During this discovery phase, I used a thinking-out-loud process to identify recurring customer-experience concepts, challenge whether apparent patterns were genuinely distinct, and refine the boundaries between them.
+
+ChatGPT was used as a structured thought partner during this stage to help articulate and test emerging categories, but the framework itself was grounded in patterns I observed directly in the customer language.
+
+Because I did not record an exact review count for this exploratory phase, I treat it as qualitative discovery rather than a quantified sample.
+
 # Primary Experience Themes
 
 ## 1. Product Quality
