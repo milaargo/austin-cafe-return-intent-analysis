@@ -79,9 +79,11 @@ Strong enthusiasm, recommendation to others, or desire to remain at the café du
 
 AI-assisted coding was not treated as ground truth.
 
-The coding framework was developed and tested manually before scaling. After AI-assisted coding, I conducted an additional stratified human QA spot-check across Yes, No, and None return-signal categories, reviewing theme assignment, theme sentiment, and return-signal classification.
+The coding framework was developed and tested manually before scaling. After AI-assisted coding, I conducted a stratified human QA spot-check of 15 reviews across Yes, No, and None return-signal categories, reviewing theme assignment, theme sentiment, and return-signal classification.
 
-All reviews included in the final QA spot-check passed without requiring correction.
+No discrepancies were identified in the 15-review QA spot-check.
+
+This QA step was used as a consistency check rather than as a formal statistical estimate of AI coding accuracy.
 
 ## Tools
 
