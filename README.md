@@ -57,6 +57,11 @@ The sampling strategy, qualitative codebook, return-signal framework, AI-assiste
 
 Throughout the project, I treated **analytical restraint as part of the method**: emerging patterns were documented without automatically expanding the framework unless they met clear criteria for recurrence, distinctiveness, consistency, and relevance to the business question.
 
+## Project Documentation
+
+- [Project Decision Timeline](notes/project_timeline.md) — how the research question, methodology, and analytical focus evolved throughout the project.
+- [Review Coding Codebook](notes/codebook.md) — operational definitions, coding boundaries, return-signal rules, and methodological decisions.
+
 ## Return Signal Definition
 
 **Yes**  
