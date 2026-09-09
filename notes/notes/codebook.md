@@ -198,20 +198,7 @@ Memorable or signature elements that make the experience stand out.
 
 ---
 
-## 11. Other / Emerging
-
-**What it means:**  
-Something meaningful to the customer experience that does not fit the existing framework.
-
-**Include:**
-- potentially meaningful new or repeated ideas
-
-**Do not include:**
-- one-off trivia that does not affect the customer experience
-
----
-
-## 12. Cleanliness / Maintenance
+## 11. Cleanliness / Maintenance
 
 **What it means:**  
 Customer evaluation of the cleanliness, upkeep, or physical maintenance of the café environment or equipment.
@@ -228,7 +215,7 @@ Customer evaluation of the cleanliness, upkeep, or physical maintenance of the c
 
 ---
 
-## 13. Product Options / Accommodation
+## 12. Product Options / Accommodation
 
 **What it means:**  
 Customer evaluation of whether the menu provides options that suit their needs or circumstances.
@@ -242,6 +229,19 @@ Customer evaluation of whether the menu provides options that suit their needs o
 
 **Do not include:**
 - whether the product tastes good; this remains Product Quality
+
+---
+
+## 13. Other / Emerging
+
+**What it means:**  
+Something meaningful to the customer experience that does not fit the existing framework.
+
+**Include:**
+- potentially meaningful new or repeated ideas
+
+**Do not include:**
+- one-off trivia that does not affect the customer experience
 
 ---
 
