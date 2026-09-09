@@ -60,7 +60,7 @@ Throughout the project, I treated **analytical restraint as part of the method**
 ## Project Documentation
 
 - [Project Decision Timeline](notes/project_timeline.md) — how the research question, methodology, and analytical focus evolved throughout the project.
-- [Review Coding Codebook](notes/codebook.md) — operational definitions, coding boundaries, return-signal rules, and methodological decisions.
+- [Review Coding Codebook](notes/notes/codebook.md) — operational definitions, coding boundaries, return-signal rules, and methodological decisions.
 
 ## Return Signal Definition
 
