@@ -33,6 +33,16 @@ For a business with strong reviews but weaker-than-expected repeat behavior, und
 - Review-level return signal: Yes, No, None
 - 1,069 coded review-theme observations
 
+## Data Source
+
+The source data comes from [**Yelp Coffee Reviews**](https://www.kaggle.com/datasets/sripaadsrinivasan/yelp-coffee-reviews), a publicly available Kaggle dataset created by **Sripaad Srinivasan** containing Yelp reviews of Austin-area coffee shops.
+
+For this project, I used only the dataset's `raw_yelp_review_data` file as the analytical starting point. I did not use the dataset creator's pre-generated sentiment or attribute outputs because I wanted to develop an independent analytical approach from the original review text.
+
+The sampling strategy, qualitative codebook, return-signal framework, AI-assisted coding workflow, QA process, analytical framing, and resulting findings are my own.
+
+**Source:** Sripaad Srinivasan, *Yelp Coffee Reviews*, Kaggle.
+
 ## Method
 
 1. Human review of raw customer feedback
