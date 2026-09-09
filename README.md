@@ -45,6 +45,10 @@ For a business with strong reviews but weaker-than-expected repeat behavior, und
 8. Qualitative interpretation of customer trade-offs
 9. Business recommendations and visualization
 
+Throughout the project, I treated **analytical restraint as part of the method**: emerging patterns were documented without automatically expanding the framework unless they met clear criteria for recurrence, distinctiveness, consistency, and relevance to the business question.
+
+## Return Signal Definition
+
 ## Return Signal Definition
 
 **Yes**  
