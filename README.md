@@ -59,8 +59,6 @@ Throughout the project, I treated **analytical restraint as part of the method**
 
 ## Return Signal Definition
 
-## Return Signal Definition
-
 **Yes**  
 Explicit future return or clear evidence of ongoing/repeated patronage.
 
