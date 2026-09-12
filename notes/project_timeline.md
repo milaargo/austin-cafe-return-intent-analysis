@@ -231,3 +231,67 @@ The next phase uses SQL to compare:
 4. positive experience factors that appear to distinguish retained from lost customers.
 
 The final goal is to move from customer language to actionable insight about the difference between **satisfaction and retention**.
+
+---
+
+## 14. Isolate Return Resilience
+
+**Date:** September 12, 2026
+
+I narrowed the analysis to reviews containing at least one negatively coded theme:
+
+- 52 reviews with a Yes return signal
+- 41 reviews with a No return signal
+
+This created a more direct comparison between customers who experienced friction but still indicated continued patronage and customers who experienced friction and indicated non-return.
+
+For each theme, I compared positive-theme prevalence as a potential return buffer and negative-theme prevalence as a potential relationship breaker.
+
+Service / Treatment and Distinctiveness showed the clearest two-sided differences, while several operational themes appeared more tolerable.
+
+---
+
+## 15. Return to the Customer Language
+
+Aggregate differences were treated as signals for further investigation rather than findings on their own.
+
+I retrieved the underlying reviews for Service / Treatment and Distinctiveness.
+
+Service cases suggested a meaningful contrast between ordinary interpersonal warmth among customers who still returned and language describing dismissal, condescension, or feeling unwelcome among customers who withdrew future business.
+
+Distinctiveness cases suggested another possible mechanism: customers who continued patronage often described a specific reason the café remained worth choosing, while non-return reviews more often framed the café as replaceable or undifferentiated.
+
+These interpretations remain exploratory and non-causal.
+
+---
+
+## 16. Test Rating Severity as a Confound
+
+The No-return group was disproportionately concentrated in Low-rating reviews, so I tested whether the Service pattern persisted within comparable rating tiers.
+
+Among Low-rating reviews containing a negative experience:
+
+- positive Service appeared in 23.5% of Yes reviews vs. 6.1% of No reviews;
+- negative Service appeared in 35.3% of Yes reviews vs. 63.6% of No reviews.
+
+The pattern therefore remained visible even among customers who were similarly dissatisfied overall.
+
+The Mixed-rating subgroup did not reproduce the same pattern clearly and contained only eight No reviews, so the result is treated cautiously rather than as evidence of an independent causal effect.
+
+---
+
+## 17. Freeze the SQL Analysis
+
+The SQL phase was stopped once the primary business question had been addressed and the strongest pattern had been stress-tested.
+
+The final analysis package includes:
+
+- data validation;
+- return-signal theme comparison;
+- return-resilience analysis;
+- rating-tier robustness checks;
+- aggregate analytical outputs for visualization.
+
+The strongest exploratory finding is that interpersonal treatment appears more closely associated with stated relationship continuation than several other forms of friction in this sample.
+
+SQL scripts and aggregate outputs are available in the `/sql` and `/outputs` folders.
