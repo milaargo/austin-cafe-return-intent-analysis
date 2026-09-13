@@ -230,7 +230,7 @@ The next phase uses SQL to compare:
 3. reviews containing both negative experiences and continued return signals;
 4. positive experience factors that appear to distinguish retained from lost customers.
 
-The final goal is to move from customer language to actionable insight about the difference between **satisfaction and retention**.
+The final goal is to move from customer language to actionable insight about the difference between satisfaction and stated continued patronage.
 
 ---
 
