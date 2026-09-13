@@ -10,7 +10,7 @@ The framework was developed through human review before AI-assisted coding was i
 - **Frozen:** August 23, 2026
 - **Human pilot:** 11 manually coded reviews across Low, Mixed, and High rating tiers
 - **Formal themes:** 13
-- **Coding grain:** One unique theme per review
+- **Coding grain:** One row per unique review-theme combination
 - **Theme sentiment:** Positive / Negative / Mixed / Neutral
 - **Return signal:** Yes / No / None
 
