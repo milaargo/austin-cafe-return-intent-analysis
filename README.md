@@ -66,6 +66,26 @@ These results suggest that the existence of a problem alone may matter less than
 
 ---
 
+## Final Visualizations
+
+The final Tableau visual set translates the main analytical comparisons into decision-focused views.
+
+### Service / Treatment by Return Signal
+
+![Service by return signal](visuals/01_service_return_signal.png)
+
+Among reviews containing at least one negative experience, negative Service / Treatment was substantially more common among No-return reviews, while positive Service was more common among Yes-return reviews.
+
+Additional views:
+
+- [Negative-theme No-return gaps](visuals/02_negative_theme_no_return_gaps.png)
+- [Positive-theme Yes-return gaps](visuals/03_positive_theme_yes_return_gaps.png)
+- [Low-rating Service robustness check](visuals/04_low_rating_service_robustness.png)
+
+The full visualization set is available in the [`visuals`](visuals/) folder.
+
+---
+
 ## Why This Matters
 
 Star ratings summarize how customers evaluate an experience, but they do not necessarily explain whether that experience is strong enough to sustain the customer relationship.
