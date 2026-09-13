@@ -2,6 +2,28 @@
 
 This document records the main analytical observations from the SQL phase of the project. Findings are exploratory associations based on stated return signals in a balanced 300-review sample and should not be interpreted as causal effects or population estimates.
 
+## How to Read the Gap Metrics
+
+Two directional percentage-point measures are used in the return-resilience analysis:
+
+**Negative breaker gap**
+
+`No-return negative-theme % - Yes-return negative-theme %`
+
+A positive value means the negative version of the theme was more common among No-return reviews.  
+A value near zero indicates little separation between return groups.  
+A negative value means the negative theme was more common among Yes-return reviews.
+
+**Positive buffer gap**
+
+`Yes-return positive-theme % - No-return positive-theme %`
+
+A positive value means the positive version of the theme was more common among Yes-return reviews.  
+A value near zero indicates little separation between return groups.  
+A negative value means the positive theme was more common among No-return reviews.
+
+These labels are descriptive analytical shorthand and do not imply causal effects.
+
 ## 1. Theme Prevalence by Return Signal
 
 Initial SQL comparison showed that theme presence alone was not sufficient to explain return intent.
