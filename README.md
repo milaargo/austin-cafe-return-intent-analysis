@@ -292,16 +292,15 @@ Working files containing full review text were intentionally excluded from the p
 - DuckDB
 - SQL
 - DBeaver
-- ChatGPT-assisted qualitative coding and SQL learning/support
-
-Visualization will be developed separately from the analytical workflow.
+- Tableau Public
+- ChatGPT-assisted qualitative coding, SQL learning, and analytical support
 
 ---
 
 ## Project Status
 
-**Qualitative coding, QA, Excel exploration, and SQL analysis complete.**
+**Qualitative coding, QA, exploratory analysis, SQL analysis, and visualization complete.**
 
 Current phase:
 
-**Visualization and final portfolio case-study development.**
+**Final portfolio case-study assembly.**
