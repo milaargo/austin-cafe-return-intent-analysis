@@ -295,3 +295,28 @@ The final analysis package includes:
 The strongest exploratory finding is that interpersonal treatment appears more closely associated with stated relationship continuation than several other forms of friction in this sample.
 
 SQL scripts and aggregate outputs are available in the `/sql` and `/outputs` folders.
+
+---
+
+## 18. Translate Findings Into Decision-Focused Visuals
+
+**Date:** September 13, 2026
+
+After completing the SQL analysis, I created a small set of Tableau visuals designed around the primary analytical questions rather than a large exploratory dashboard.
+
+The final visualization set includes:
+
+- a two-sided Service / Treatment comparison;
+- a ranked No-return gap across negative themes;
+- a ranked Yes-return gap across positive themes;
+- a Low-rating Service robustness check.
+
+The visualizations reinforced the final evidence hierarchy:
+
+- **Service / Treatment** produced the strongest and most robust relationship signal;
+- **Distinctiveness** showed the largest positive Yes-return gap;
+- several forms of operational friction showed comparatively little separation between return groups.
+
+The visualization phase also clarified an important distinction between **prevalence and discrimination**: Product Quality was common in both groups but did not consistently distinguish customers who intended to return from those who did not.
+
+With the analytical question answered and the main findings stress-tested, the analysis and visualization phases were closed.
