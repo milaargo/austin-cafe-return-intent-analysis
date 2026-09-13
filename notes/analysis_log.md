@@ -66,7 +66,7 @@ Within the negative-experience cohort, positive themes with the largest Yes-side
 - Service / Treatment
 - Functional Environment
 
-These are interpreted as potential buffers rather than causal retention drivers.
+These are interpreted as potential buffers rather than causal drivers of continued patronage.
 
 Positive Product Quality appeared at similar rates among Yes and No customers, suggesting that good product alone did not explain return resilience particularly well.
 
