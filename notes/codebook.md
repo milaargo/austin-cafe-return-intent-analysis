@@ -369,3 +369,7 @@ The framework followed this sequence:
 **Human discovery → human pilot → codebook refinement → codebook freeze → AI calibration on unseen reviews → AI-assisted coding → human QA spot-check**
 
 AI-assisted classifications were not treated as ground truth.
+
+---
+
+[← Back to main case study](../README.md)
