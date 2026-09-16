@@ -143,3 +143,7 @@ The sample was balanced for comparison rather than population prevalence.
 Some subgroups are small.
 
 AI-assisted coding was used after human framework development and calibration and was followed by human QA.
+
+---
+
+[← Back to main case study](../README.md)
