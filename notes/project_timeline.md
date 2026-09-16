@@ -320,3 +320,7 @@ The visualizations reinforced the final evidence hierarchy:
 The visualization phase also clarified an important distinction between **prevalence and discrimination**: Product Quality was common in both groups but did not consistently distinguish customers who intended to return from those who did not.
 
 With the analytical question answered and the main findings stress-tested, the analysis and visualization phases were closed.
+
+---
+
+[← Back to main case study](../README.md)
